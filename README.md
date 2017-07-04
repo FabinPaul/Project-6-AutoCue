@@ -11,10 +11,18 @@ notes, he/she appears to have memorized the speech or to be speaking spontaneous
   
   
 ## Screenshot
-<img src="release/phone-ui-1.png" height="400" alt="Screenshot"/>
-<img src="release/phone-ui-2.png" height="400" alt="Screenshot"/>
-<img src="release/phone-ui-3.png" height="400" alt="Screenshot"/>
-<img src="release/phone-ui-4.png" height="400" alt="Screenshot"/>
-<img src="release/tablet-ui-1.png" height="400" alt="Screenshot"/>
+<p>
+ <img src="release/phone-ui-1.png" height="400" alt="Screenshot"/> &emsp;&emsp;&emsp; 
+ <img src="release/phone-ui-2.png" height="400" alt="Screenshot"/>
+</p>
+
+<p>
+<img src="release/phone-ui-3.png" height="400" alt="Screenshot"/> &emsp;&emsp;&emsp; 
+<img src="release/phone-ui-4.png" height="400" alt="Screenshot"/> 
+</p>
+<p>
+<img src="release/tablet-ui-1.png" height="400" alt="Screenshot"/> &emsp;&emsp;&emsp; 
 <img src="release/tablet-ui-2.png" height="400" alt="Screenshot"/> 
+</p >
+
 <img src="release/tablet-ui-3.png" height="400" alt="Screenshot"/>
